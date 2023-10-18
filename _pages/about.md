@@ -31,18 +31,18 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2013.09 - 2016.06*, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt"></a> 澳门大学 电脑及资讯科学系, 澳门, 哲学博士 
-- *2011.09 - 2013.06*, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt"></a> 澳门大学 电脑及资讯科学系, 澳门, 理学硕士
-- *2007.09 - 2011.06*, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/CQU_logo.png" width="23pt"></a> 重庆大学 软件学院, 重庆, 工学学士
-
+<h1 id="-学历">🎓 学历</h1>
+<ul>
+  <li><em>2013.09 - 2016.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> 澳门大学 电脑及资讯科学系, 澳门, 哲学博士</li>
+  <li><em>2011.09 - 2013.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> 澳门大学 电脑及资讯科学系, 澳门, 理学硕士</li>
+  <li><em>2007.09 - 2011.06</em>, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/CQU_logo.png" width="23pt" /></a> 重庆大学 软件学院, 重庆, 工学学士</li>
+</ul>
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 学术成果
+<h1 id="-学术成果">📝 学术成果</h1>
 
 <h3 id="期刊论文">期刊论文</h3>
----
 <li id="paperdistance">  Weijia Cao, Hang Cai, <B>Zhongyun Hua*</B>,  "n-Dimensional Chaotic Map with Application in Secure Communication", <B><I>Chaos Solitons & Fractals,</I></B>, Vol. 163, artcle no. 112519, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S0960077922007196" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\Paper_PDF\n-Dimensional Chaotic Map with application.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">   <B>Zhongyun Hua</B>, Yongyong Chen, Han Bao, Yicong Zhou, "Two-Dimensional Parametric Polynomial Chaotic System", <B><I>IEEE Transactions on Systems, Man, and Cybernetics: Systems</I></B>, in press, 2021. <a href="https://doi.org/10.1109/TSMC.2021.3096967">[doi]</a>
 <li id="paperdistance">   Kexin Li, Han Bao, Houzhen Li, Jun Ma, <B>Zhongyun Hua*</B>, Bo-Cheng Bao, "memristive Rulkov Neuron Model with Magnetic Induction Effects", <B><I>IEEE Transactions on Industrial Informatics</I></B>, in press, 2021. <a href="https://doi.org/10.1109/TII.2021.3086819">[doi]</a>
@@ -161,7 +161,7 @@ redirect_from:
 
 <h1 id="-研究工作经历">💻 研究工作经历</h1>
 <ul>
-  <li><em>2018.03 - 现在</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> 副教授, 计算机学院, 哈尔滨工业大学（深圳）</li>
-  <li><em>2016.11 - 2018.03</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> 助理教授, 计算机学院, 哈尔滨工业大学（深圳）研究生院</li>
-  <li><em>2010.10 - 2011.04</em>, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/CQU_logo.png" width="23pt" /></a> 工程师, 技术部, 惠普公司</li>
+  <li><em>2018.03 - 现在</em></a>, 副教授, 计算机学院, 哈尔滨工业大学（深圳）</li>
+  <li><em>2016.11 - 2018.03</em>, 助理教授, 计算机学院, 哈尔滨工业大学（深圳）研究生院</li>
+  <li><em>2010.10 - 2011.04</em>, 工程师, 技术部, 惠普公司</li>
 </ul>
