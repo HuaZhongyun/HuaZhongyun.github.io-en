@@ -41,7 +41,7 @@ redirect_from:
 
 # 📝 学术成果
 
-### 期刊论文
+<h3 id="期刊论文">期刊论文</h3>
 ---
 <li id="paperdistance">  Weijia Cao, Hang Cai, <B>Zhongyun Hua*</B>,  "n-Dimensional Chaotic Map with Application in Secure Communication", <B><I>Chaos Solitons & Fractals,</I></B>, Vol. 163, artcle no. 112519, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S0960077922007196" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\Paper_PDF\n-Dimensional Chaotic Map with application.pdf" target="_blank">[pdf]</a></li>
 <li id="paperdistance">   <B>Zhongyun Hua</B>, Yongyong Chen, Han Bao, Yicong Zhou, "Two-Dimensional Parametric Polynomial Chaotic System", <B><I>IEEE Transactions on Systems, Man, and Cybernetics: Systems</I></B>, in press, 2021. <a href="https://doi.org/10.1109/TSMC.2021.3096967">[doi]</a>
@@ -109,7 +109,8 @@ redirect_from:
 <a href="..\wp-content\themes\homepage\SourceCode\2DLASMEncryption_Hua2016IS.rar" target="_blank">[Code]</a></li>
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, Chi-Man Pun, C. L. Philip Chen, "2D Sine Logistic modulation map for image encryption," <B><I>Information Sciences</I></B>, vol. 297, pp. 80–94, 2015. [<font color="red"> ESI 1% Highly Cited Paper since 2016, also Most Cited Paper since 2018</font>] [IF: 4.832/2016, JCR: Q1] <a href="https://www.sciencedirect.com/science/article/pii/S0020025514010883" target="_blank">[doi]</a><a href="..\wp-content\themes\homepage\Paper_PDF\2D Sine Logistic modulation map for image encryption.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\2D Sine Logistic modulation map for image encryption.txt" target="_blank">[BibTeX]</a><a href="..\wp-content\themes\homepage\SourceCode\2DSLMMEncryption_Hua2015IS.rar" target="_blank">[Code]</a></li>
 
-### 会议论文
+
+<h3 id="会议论文">会议论文</h3>
 ---
 <li id="paperdistance"> Hang Cai, <B>Zhongyun Hua</B>, Hejiao Huang, "A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme" in 2018 IEEE International Conference on Systems, Man and Cybernetics (SMC 2018), 2018, pp. 1794-1798, Miyazaki, Japan, 2018.10.7-2018.10.10. <a href="..\wp-content\themes\homepage\Paper_PDF\A novel image encryption scheme using Josephus permutation and image filtering.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\A novel image encryption scheme using Josephus permutation and image filtering.txt" target="_blank">[BibTeX]</a>
 
@@ -125,7 +126,7 @@ redirect_from:
 
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, C. L. Philip Chen, “A new series-wound framework for generating 1D chaotic maps,” in 2013 IEEE Digital Signal Processing and Signal Processing Education Meeting (DSP/SPE), 118–123 (2013). （EI）  <a href="..\wp-content\themes\homepage\Paper_PDF\A new series-wound framework for generating 1D chaotic maps.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\A new series-wound framework for generating 1D chaotic maps.txt" target="_blank">[BibTeX]</a>
 
-### 专业资质与学术兼职
+<h3 id="专业资质与学术兼职">专业资质与学术兼职</h3>
 ---
 <li>2017  IEEE SMC Institute, Technical Committee, member</li>
 <li>Reviewer,  IEEE Transactions on Circuits and Systems for Video Technology</li>
