@@ -32,9 +32,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2013.09 - 2016.06*, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="20pt"></a> 澳门大学 电脑及资讯科学系, 澳门, 哲学博士 
-- *2011.09 - 2013.06*, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.svg" width="20pt"></a> 澳门大学 电脑及资讯科学系, 澳门, 理学硕士
-- *2007.09 - 2011.06*, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/CQU_logo.svg" width="20pt"></a> 重庆大学 软件学院, 重庆, 工学学士
+- *2013.09 - 2016.06*, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt"></a> 澳门大学 电脑及资讯科学系, 澳门, 哲学博士 
+- *2011.09 - 2013.06*, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt"></a> 澳门大学 电脑及资讯科学系, 澳门, 理学硕士
+- *2007.09 - 2011.06*, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/CQU_logo.png" width="23pt"></a> 重庆大学 软件学院, 重庆, 工学学士
 
  
 <span class='anchor' id='-lwzl'></span>
