@@ -140,14 +140,10 @@ redirect_from:
 <li>Reviewer,  IEEE Multimedia</li>
 
 
-
-
-
-
-
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 研究成果与奖励
+
 <li>2017  Harbin Institute of Technology Young Talents Program (Associate Professor)</li>
 <li>2017  Shenzhen Overseas High-level Talents Program</li>
 <li>Seven ESI 1% Highly Cited Papers in the ISI database</li>
