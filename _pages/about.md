@@ -111,7 +111,6 @@ redirect_from:
 
 
 <h3 id="会议论文">会议论文</h3>
----
 <li id="paperdistance"> Hang Cai, <B>Zhongyun Hua</B>, Hejiao Huang, "A Novel Differential-Chaos-Shift-Keying Secure Communication Scheme" in 2018 IEEE International Conference on Systems, Man and Cybernetics (SMC 2018), 2018, pp. 1794-1798, Miyazaki, Japan, 2018.10.7-2018.10.10. <a href="..\wp-content\themes\homepage\Paper_PDF\A novel image encryption scheme using Josephus permutation and image filtering.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\A novel image encryption scheme using Josephus permutation and image filtering.txt" target="_blank">[BibTeX]</a>
 
 <li id="paperdistance"> Binxuan Xu, <B>Zhongyun Hua</B>, Hejiao Huang, "A novel image encryption scheme using Josephus permutation and image filtering" in 9th International Symposium on Cyberspace Safety and Security (CSS 2017), 2017, pp. 307-319. <a href="..\wp-content\themes\homepage\Paper_PDF\A novel image encryption scheme using Josephus permutation and image filtering.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\A novel image encryption scheme using Josephus permutation and image filtering.txt" target="_blank">[BibTeX]</a>
@@ -127,7 +126,6 @@ redirect_from:
 <li id="paperdistance"> <B>Zhongyun Hua</B>, Yicong Zhou, C. L. Philip Chen, “A new series-wound framework for generating 1D chaotic maps,” in 2013 IEEE Digital Signal Processing and Signal Processing Education Meeting (DSP/SPE), 118–123 (2013). （EI）  <a href="..\wp-content\themes\homepage\Paper_PDF\A new series-wound framework for generating 1D chaotic maps.pdf" target="_blank">[pdf]</a><a href="..\wp-content\themes\homepage\BibTex\A new series-wound framework for generating 1D chaotic maps.txt" target="_blank">[BibTeX]</a>
 
 <h3 id="专业资质与学术兼职">专业资质与学术兼职</h3>
----
 <li>2017  IEEE SMC Institute, Technical Committee, member</li>
 <li>Reviewer,  IEEE Transactions on Circuits and Systems for Video Technology</li>
 <li>Reviewer,  IEEE Transactions on Cybernetics</li>
@@ -143,7 +141,7 @@ redirect_from:
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 研究成果与奖励
+<h1 id="-研究成果与奖励">🏅 研究成果与奖励</h1>
 
 <li>2017  Harbin Institute of Technology Young Talents Program (Associate Professor)</li>
 <li>2017  Shenzhen Overseas High-level Talents Program</li>
@@ -161,8 +159,9 @@ redirect_from:
 
 <span class='anchor' id='-xshy'></span>
 
-
-# 💻 研究工作经历
-- *2018.03 - 现在*, 副教授, 计算机学院, 哈尔滨工业大学（深圳）
-- *2016.11 - 2018.03*, 助理教授, 计算机学院, 哈尔滨工业大学（深圳）研究生院
-- *2010.10 - 2011.04*, 工程师, 技术部, 惠普公司
+<h1 id="-研究工作经历">💻 研究工作经历</h1>
+<ul>
+  <li><em>2018.03 - 现在</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> 副教授, 计算机学院, 哈尔滨工业大学（深圳）</li>
+  <li><em>2016.11 - 2018.03</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> 助理教授, 计算机学院, 哈尔滨工业大学（深圳）研究生院</li>
+  <li><em>2010.10 - 2011.04</em>, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/CQU_logo.png" width="23pt" /></a> 工程师, 技术部, 惠普公司</li>
+</ul>
